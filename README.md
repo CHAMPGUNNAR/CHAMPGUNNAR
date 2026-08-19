@@ -18,7 +18,7 @@ Computer Engineering and Digital Technology, Chulalongkorn University
 
 ### About
 
-Computer science researcher and technology developer focused on artificial intelligence and real world impact. Leads Synventra in building human centered technologies for disaster response, public safety, and smart infrastructure. Scholar of the 28th Junior Science Talent Project (JSTP), National Science and Technology Development Agency. Member of the Federation of Thai Industries (FTI).
+Computer science researcher and technology developer focused on artificial intelligence and real world impact. Leads Synventra in building human centered technologies for disaster response, public safety, and smart infrastructure. Scholar of the 28th Junior Science Talent Project (JSTP), National Science and Technology Development Agency.
 
 ### Focus areas
 
