@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Applied AI, robotics, health technology, agriculture, disaster response, and infrastructure" width="100%">
+</p>
+
 <div align="center">
 
 # Chitsanupong Kongkraphan
@@ -8,6 +12,13 @@ Computer Engineering and Digital Technology student
 Faculty of Engineering, Chulalongkorn University
 
 [Personal website](https://champchitsa.com) · [Synventra](https://synventra.com)
+
+<br>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0F172A?style=flat-square" alt="Artificial Intelligence">
+<img src="https://img.shields.io/badge/Computer_Vision-164E63?style=flat-square" alt="Computer Vision">
+<img src="https://img.shields.io/badge/Robotics-0F766E?style=flat-square" alt="Robotics">
+<img src="https://img.shields.io/badge/Applied_Research-B45309?style=flat-square" alt="Applied Research">
 
 </div>
 
