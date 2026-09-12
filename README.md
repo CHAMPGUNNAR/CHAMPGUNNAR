@@ -32,10 +32,6 @@ I was a scholar in the **28th Junior Science Talent Project (JSTP)** administere
 - **Nematodroid.** Development of an omnidirectional exploration robot with a vision system for disaster victim search. Supported by the National Science and Technology Development Agency (NSTDA) and the National Research Council of Thailand (NRCT).
 - **TERMTEM.** Campus water refill gamification for plastic reduction. Funded by the Ton Kla Ramathibodi Project, Faculty of Medicine Ramathibodi Hospital, Mahidol University.
 
-## Recognition
-
-- **First Runner Up, Super AI Engineer Season 5**
-
 ## More information
 
 Additional information about my education, projects, and awards is available at [champchitsa.com](https://champchitsa.com).
