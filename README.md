@@ -41,7 +41,7 @@ Faculty of Engineering, Chulalongkorn University
 <a href="https://synventra.com/projects/talaem-ai-assistant-for-scam-online-threat-detection"><img src="https://img.shields.io/badge/TaLaem-Honorable_Mention-7E22CE?style=flat-square" alt="TaLaem, Honorable Mention"></a>
 <a href="https://synventra.com/news/synventra-at-bdi-hackathon-2026-our-kick-off-in-phuket"><img src="https://img.shields.io/badge/TERMTEM_@PHUKET-BDI_Finalist-166534?style=flat-square" alt="TERMTEM at Phuket, BDI Finalist"></a>
 <img src="https://img.shields.io/badge/TERMTEM_@RAMA-Delivered-0369A1?style=flat-square" alt="TERMTEM at Rama, Delivered">
-<img src="https://img.shields.io/badge/SEESEED-Super_AI_Engineer_Season_5-B45309?style=flat-square" alt="SEESEED, Super AI Engineer Season 5">
+<a href="https://synventra.com/projects/smarter-corn-seed-quality-with-ai"><img src="https://img.shields.io/badge/SEESEED-Super_AI_Engineer_Season_5-B45309?style=flat-square" alt="SEESEED, Super AI Engineer Season 5"></a>
 
 </div>
 
