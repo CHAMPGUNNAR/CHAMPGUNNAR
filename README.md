@@ -15,13 +15,9 @@ Faculty of Engineering, Chulalongkorn University
 <br>
 <img src="https://img.shields.io/badge/AI_for_Food_Waste-166534?style=flat-square" alt="AI for Food Waste">
 <img src="https://img.shields.io/badge/AI_Safety-B91C1C?style=flat-square" alt="AI Safety">
-<img src="https://img.shields.io/badge/Thai_NLP-7E22CE?style=flat-square" alt="Thai NLP">
 <img src="https://img.shields.io/badge/Computer_Vision-164E63?style=flat-square" alt="Computer Vision">
-<img src="https://img.shields.io/badge/Machine_Learning-1D4ED8?style=flat-square" alt="Machine Learning">
 <img src="https://img.shields.io/badge/Multimodal_AI-0369A1?style=flat-square" alt="Multimodal AI">
 <img src="https://img.shields.io/badge/Robotics-0F766E?style=flat-square" alt="Robotics">
-<img src="https://img.shields.io/badge/Public_Safety-B45309?style=flat-square" alt="Public Safety">
-<img src="https://img.shields.io/badge/Sustainable_Systems-15803D?style=flat-square" alt="Sustainable Systems">
 
 <br>
 <strong>Engineering</strong>
@@ -31,9 +27,6 @@ Faculty of Engineering, Chulalongkorn University
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 
 <br>
 <strong>Projects</strong>
