@@ -64,7 +64,7 @@ I was a scholar in the **28th Junior Science Talent Project (JSTP)** administere
 - [**TERMTEM @PHUKET.**](https://synventra.com/news/synventra-at-bdi-hackathon-2026-our-kick-off-in-phuket) Development of an AI and data system for food waste management in tourism operations. Finalist in the 2026 PRO AT Phuket hackathon organized by the Big Data Institute (Public Organization), or BDI.
 - [**Omnidirectional Mobility Device for Remotely Controlled Rescue Exploration on Rubble Terrain.**](https://tgcthailand.com/wp-content/uploads/2025/11/2058.pdf) Thai Petty Patent No. 26405, Department of Intellectual Property, Thailand.
 - **PuenMor.** Development of an artificial intelligence based risk and trend assessment system for neurological disorders. Funded by the Junior Science Talent Project (JSTP), National Science and Technology Development Agency (NSTDA).
-- **SEESEED.** Development of a computer vision platform for corn seed quality grading. Super AI Engineer Season 5.
+- [**SEESEED.**](https://synventra.com/projects/smarter-corn-seed-quality-with-ai) Development of a computer vision platform for corn seed quality grading. Super AI Engineer Season 5.
 - **Nematodroid.** Development of an omnidirectional exploration robot with a vision system for disaster victim search. Supported by the National Science and Technology Development Agency (NSTDA) and the National Research Council of Thailand (NRCT).
 - **TERMTEM @RAMA.** Campus water refill gamification for plastic reduction. Funded by the Ton Kla Ramathibodi Project, Faculty of Medicine Ramathibodi Hospital, Mahidol University.
 
